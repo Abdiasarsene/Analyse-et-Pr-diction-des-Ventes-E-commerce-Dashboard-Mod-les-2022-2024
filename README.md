@@ -73,7 +73,3 @@ Ce dépôt regroupe l’ensemble du travail réalisé dans le cadre d’une miss
 - `dashboard/` : tableau de bord Power BI
 - `models/` : scripts de prédiction
 - `docs/` : rapport d’analyse et synthèse stratégique
-
----
-
-## 📣 Contact
