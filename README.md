@@ -60,7 +60,9 @@
 
 ## 🔃 Visualisation Power BI
 
-[POwer BI Viz Ecomm](./statics/ecom_bi.png)
+[Power BI Viz Ecom](./statics/ecom_bi.png)
+
+---
 
 ## 🧠 Recommandations stratégiques
 
