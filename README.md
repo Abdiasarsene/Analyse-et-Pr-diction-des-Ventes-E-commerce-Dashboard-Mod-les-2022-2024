@@ -60,7 +60,7 @@
 
 ## 🔃 Visualisation Power BI
 
-[Power BI Viz Ecom](./statics/ecom_bi.png)
+![Power BI Viz Ecom](./statics/ecom_bi.png)
 
 ---
 
