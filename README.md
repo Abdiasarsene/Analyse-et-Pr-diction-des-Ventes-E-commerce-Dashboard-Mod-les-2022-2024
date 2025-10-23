@@ -1,6 +1,10 @@
-# Analyse et Prédiction des Ventes E-commerce — Dashboard & Modèles 2022–2024
+# Analyse et Prédiction des Ventes E-commerce 2022–2024
 
-Ce dépôt regroupe l’ensemble du travail réalisé dans le cadre d’une mission d’analyse et de prédiction des ventes pour une entreprise du secteur e-commerce. Il couvre l’analyse des ventes passées (janvier 2022 à janvier 2024), la modélisation prédictive sur 12 mois, et la livraison d’un tableau de bord interactif Power BI pour la prise de décision.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+"*L’entreprise voulait comprendre ses ventes. J’ai plongé dans deux ans d’historique, construit une prévision sur 12 mois, et livré un tableau de bord Power BI pour décider avec clarté. Tout est ici.*"
 
 ---
 
@@ -53,6 +57,10 @@ Ce dépôt regroupe l’ensemble du travail réalisé dans le cadre d’une miss
 - Problème : **surapprentissage**, prédictions constantes
 
 ---
+
+## 🔃 Visualisation Power BI
+
+[POwer BI Viz Ecomm](./statics/ecom_bi.png)
 
 ## 🧠 Recommandations stratégiques
 
